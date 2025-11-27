@@ -173,7 +173,7 @@
 <p>To avoid domain exchange and presence/absence issues, the panel phage CF sequence comparisons that follow used only the universally present contiguous domains HDII, HDIII and HDIV (to avoid probing with non-contiguous sequences the relatively short OB domain was included when it is present on HDIV).  This PsiBLAST analysis placed the CF cores from the panel phages into six CF sequence types – lambda-like, D3-like, MP22-like, øCbK-like, PY54-like and T5-like.</p>
 <p>Domain connection diagrams for a sample of CFs from the lambda-like, D3-like, MP22-like, KL1-like, øCbK-like, PY54-like, and T5-like tail tip groups (see below) are shown in Figure 6.  The CF core domains have constant features within each of the groups, but there are numerous intra- and inter-group non-core domain variations.  The non-core CF domains in each of these types are discussed in following sections.</p>
 
-<p align="center"><img width="354" height="517" alt="Figure 6." src="https://github.com/user-attachments/assets/e36dc63b-5545-45af-ba68-51cfab93b5b1" /></p>
+<p align="center"><img width="2905" height="4749" alt="Figure 6." src="https://github.com/user-attachments/assets/a2830f02-9bb2-4dc4-aed5-1c4f0ba4a28a" /></p>
 <p align="center"><strong>Fig.6.</strong> CF domain connection diagrams for the seven tail tip types.</p>
 
 #### 3.	Materials and methods
