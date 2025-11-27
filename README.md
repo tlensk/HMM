@@ -140,13 +140,20 @@
 <p>The Lambda virion structure shows AAs 135-232 of gpI (THI) CTD in an extended conformation in the lumen of the virion tip structure below the three gpH (TMP) C-termini.  The rest of gpI is not visualized in the virion cryo-structure (Wang et al. 2023).  The lambda gpI CTD moves down to near the outer membrane during injection (Ge & Wang, 2024).  Uniquely, as mentioned above THIs in the lambda-like group have an NTD with an AF3 predicted fold that is similar to ubiquitin.  We also note that the D3-like CF NTDs have a fold that is very similar to that of Lambda THI NTD and ubiquitin, but have no recognizable AA sequence similarity to those proteins by PsiBLAST; it is not known if these ubiquitin-like CF NTDs might be removed by TNLP mediated cleavage.</p>
 <p>Gene 28 protein (also called TAP, tail tip assembly protein) of the MP22-like phage Chi is a small protein with an extended conformation that occupies a position in its tail tip that is similar to that of lambda gpI (Sonani et al., 2024).  It is encoded by a small gene in the same location as lambda gene I.  HMM and PsiBLAST find rather weak but convincing sequence similarity between Chi gp28 and the Lambda gpI CTD, and place them in two very distinct sequence type groups, the lambda-like and MP22-like THIs (table S2).  The role of the lambda THI CTD during injection has been suggested to be formation of the pore in the outer membrane during injection (Ge & Wang, 2024).  On the other hand, (Linares et al., 2023) have proposed that the C-terminal region of TM performs this function in phage T5.</p>
 <p>Among the panel phages, only Lambda-like and MP22-like THIs and are encoded by separate genes (above), but in other panel phages homologous sequences are often found at the N-terminal tip of CF.  A summary of conclusions from PsiBLAST and HMM analyses of THI in panel phages follows:</p>
-<p>Lambda-like THI.  THI is encoded by a separate gene between the TNLP and CF genes.  It is a two-domain protein of which only the CTD in an extended state is seen in the lumen of the tail tip cryoEM structure.</p>
-<p>D3-like THI.  There is no separate THI gene.  An AF3-predicted structural homolog of the lambda-like THI NTD is present at the N-termini of the D3-like CF proteins.</p>
-<p>MP22-like THI.  The small THI protein of this group is encoded by a separate gene between the TH and CF genes.  It is seen in the Chi tail tip cryoEM structure in an extended conformation.</p>
-<p>KL1-like THI.  There is no separate THI gene. A sequence related to the MP22-like THI is present at the N-termini of these CF proteins.</p>
-<p>øCbK-like THI.  There is no separate THI gene. A sequence related to the MP22-like THIs is present at the N-termini of these CP proteins.  Bardy et al. (2020 Nat Commun 10:3034) suggested that the CF N-terminal region of the gene transfer agent RcGTA particle makes the pore in the membrane.  RcGTA has a tail tip that is similar to that of øCbK, but it is not included in our panel since it is not a true phage.</p>
-<p>PY54-like THI.  There is no separate THI gene.  The PY54-like CF NTDs have an ~60 AA region with an AF3-predicted extended structure, but they are very variable and no homology has been found between them and the THIs or other panel phage CF NTDs.</p>
-<p>T5-like THI. There is no separate THI gene and the CF N-terminus is occupied by an HDI domain.  Linares et al.’s T5 injection model has a cleaved off C-terminal part of T5 TM performing the putative THI function by rearranging during injection to form the outer membrane pore.</p>
+
+- Lambda-like THI.  THI is encoded by a separate gene between the TNLP and CF genes.  It is a two-domain protein of which only the CTD in an extended state is seen in the lumen of the tail tip cryoEM structure.
+
+- D3-like THI.  There is no separate THI gene.  An AF3-predicted structural homolog of the lambda-like THI NTD is present at the N-termini of the D3-like CF proteins.
+
+- MP22-like THI.  The small THI protein of this group is encoded by a separate gene between the TH and CF genes.  It is seen in the Chi tail tip cryoEM structure in an extended conformation.
+
+- KL1-like THI.  There is no separate THI gene. A sequence related to the MP22-like THI is present at the N-termini of these CF proteins.
+
+- øCbK-like THI.  There is no separate THI gene. A sequence related to the MP22-like THIs is present at the N-termini of these CP proteins.  Bardy et al. (2020) suggested that the CF N-terminal region of the gene transfer agent RcGTA particle makes the pore in the membrane.  RcGTA has a tail tip that is similar to that of øCbK, but it is not included in our panel since it is not a true phage.
+
+- PY54-like THI.  There is no separate THI gene.  The PY54-like CF NTDs have an ~60 AA region with an AF3-predicted extended structure, but they are very variable and no homology has been found between them and the THIs or other panel phage CF NTDs.
+
+- T5-like THI. There is no separate THI gene and the CF N-terminus is occupied by an HDI domain.  Linares et al.’s T5 injection model has a cleaved off C-terminal part of T5 TM performing the putative THI function by rearranging during injection to form the outer membrane pore.
 
 ##### 2.6.5.	TM - its role and diversity 
 
@@ -168,4 +175,19 @@
 
 <p align="center"><img width="354" height="517" alt="Figure 6." src="https://github.com/user-attachments/assets/e36dc63b-5545-45af-ba68-51cfab93b5b1" /></p>
 <p align="center"><strong>Fig.6.</strong> CF domain connection diagrams for the seven tail tip types.</p>
+
+#### 3.	Materials and methods
+
+<p>We analyzed the tail tip proteins encoded by each of the 429 panel phages with the following strategy in order to discover systematic similarities and differences among very these extremely diverse siphophage tail tips with the hope of understanding their diversity in more detail and organizing them into coherent groups:</p>
+
+<strong>1.	Gene synteny points out tail tip protein candidates.</strong>  It has long been known that small to medium sized tailed phages (genome sizes under about 100,000 bp) have genes arranged in particular conserved orders according to their functions (Casjens, Sherwood & Hendrix, 1974). Siphophage tails are an especially good example of such a common gene order.  However, the specific functions of tail genes have only been experimentally studied in a very small number of phages.  In phage lambda where the tip assembly genes have been most highly studied by genetic and biochemical means, the six contiguous members of the H, M, L, K, I and J gene cluster are essential for tail tip assembly. We thus began our analysis by assuming the phages in the have similar gene orders, even though most previous annotations of siphophage genomes have failed to predict functions for a large number of the genes in this cluster.  When no homolog of the above six proteins was found to be present (see for example the lack of a TNLP in the phage D3-like and T5-like tips below), homologs were searched for in other parts of the genome, but none were found.
+
+<strong>2.	Identification of groups of distantly related proteins with similar sequence.</strong>  The panel phages were examined independently by hidden Markov model analysis (Finn et al., 2011) and systematic reiterative PsiBLAST searches (Altschul et al. 1997) of the panel phages to identify sets of more closely related proteins or “sequence types” encoded by the genes in their tail tip gene regions.   These methods identify homologs that are very different in amino acid sequence, and they converged on similar protein sets.  The different sequence types for a given protein were usually not recognizably related through 2-3 sequential rounds of PsiBLAST searches; the different sequence types of a protein are typically 10-20% identical in amino acid sequence (see below).  Intra-group diversity was also revealed as the subtypes revealed in the PsiBLAST analysis (tables S1 and S2).
+
+<strong>3.	Similar polypeptide folds indicate ancient homology and thus likely similar function.</strong>  Polypeptide fold predictions were made on-line at the implementation of AlphaFold3 (Jumper et al. 2024; Abramson et al. 2024}) for proteins representative of each of the sequence types and subtypes determined in the previous step.  These were examined manually in UCSF ChimeraX v1.6 for fold similarities and domain content differences.  We assume that sequence types with very similar predicted folds are in fact ancient homologs and therefore almost certainly have similar specific functions in tail tip assembly.
+
+<p>We believe that this extensive analysis resulted in the successful identification of all previously unrecognized DTs, THs, TNLPs, THIs and CFs encoded by the 429 panel phages, and further searches with the sequence types thus identified did not find any homologs encoded by genes outside the tail tip cluster of the panel phages.
+In the Results section we describe the diversity of each of the six tail tip proteins in our phage panel and discuss them in terms of their detailed functions; we believe there are no other nearly universally present tail tip proteins (discussed below).</p>
+
+
 
