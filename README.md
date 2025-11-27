@@ -216,4 +216,65 @@ In the Results section we describe the diversity of each of the six tail tip pro
 <p>Domain/gene content and arrangement differences lend support to the tail tip types defined above by AA sequence alone (above), and they further support separation MP22-like and KL1-like tips to give seven tip types.  THH and TNI domains are located in different genes in the MP22-like tips and in the KL1-like tips (we do not use the apparently recent DT tandem domain duplication in three D3-like tip proteins to define a separate type, since the other aspects of these three tips are D3-like).</p>
 Thus, our analysis defines seven robust and unambiguous, discrete Proteobacteria siphophage tail tip types.  This greatly simplifies understanding of the Proteobacteria-infecting siphophage tail tips and will help to avoid redundant studies in the future.</p>
 
+#### References
+
+Abedon, S. T. (2022). Phage Morons. Bacteriophages as Drivers of Evolution: An Evolutionary Ecological Perspective (pp. 153–164). Springer.
+
+Abramson, J., Adler, J., Dunger, J., Evans, R., Green, T., Pritzel, A., Ronneberger, O., Willmore, L., Ballard, A. J., & Bambrick, J. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature, 630(8016), 493–500. 
+
+Altschul, S. F., Madden, T. L., Schäffer, A. A., Zhang, J., Zhang, Z., Miller, W., & Lipman, D. J. (1997). Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Research, 25(17), 3389–3402. 
+
+Ayala, R., Moiseenko, A. V., Chen, T., Kulikov, E. E., Golomidova, A. K., Orekhov, P. S., Street, M. A., Sokolova, O. S., Letarov, A. V., & Wolf, M. (2023). Nearly complete structure of bacteriophage DT57C reveals architecture of head-to-tail interface and lateral tail fibers. Nature Communications, 14(1), 8205. 
+
+Bárdy, P., Füzik, T., Hrebík, D., Pantůček, R., Thomas Beatty, J., & Plevka, P. (2020). Structure and mechanism of DNA delivery of a gene transfer agent. Nature Communications, 11(1), 3034. 10.1038/s41467-020-16669-9
+
+Bubert, A., Kuhn, M., Goebel, W., & Köhler, S. (1992). Structural and functional properties of the p60 proteins from different Listeria species. Journal of Bacteriology, 174(24), 8166–8171. 10.1128/jb.174.24.8166-8171.1992
+
+Casjens, S. R., Davidson, A. R., & Grose, J. H. (2022). The small genome, virulent, non-contractile tailed bacteriophages that infect Enterobacteriales hosts. Virology, 573, 151–166. 
+
+Casjens, S. R., & Grose, J. H. (2016). Contributions of P2-and P22-like prophages to understanding the enormous diversity and abundance of tailed bacteriophages. Virology, 496, 255–276. 
+
+Casjens, S., & Hendrix, R. (1974). Comments on the arrangement of the morphogenetic genes of bacteriophage lambda. Journal of Molecular Biology, 90(1), 20–23. 10.1016/0022-2836(74)90253-8
+
+Chen, Y., Xiao, H., Zhou, J., Peng, Z., Peng, Y., Song, J., Zheng, J., & Liu, H. (2025). The In Situ Structure of T-Series T1 Reveals a Conserved Lambda-Like Tail Tip. Viruses, 17(3), 351. 
+
+Degroux, S., Effantin, G., Linares, R., Schoehn, G., & Breyton, C. (2023). Deciphering bacteriophage T5 host recognition mechanism and infection trigger. Journal of Virology, 97(3), 1584. 
+
+Finn, R. D., Clements, J., & Eddy, S. R. (2011). HMMER web server: interactive sequence similarity searching. Nucleic Acids Research, 39(suppl_2), W29–W37. 
+
+Flayhan, A., Vellieux, F. M., Lurz, R., Maury, O., Contreras-Martel, C., Girard, E., Boulanger, P., & Breyton, C. (2014). Crystal structure of pb9, the distal tail protein of bacteriophage T5: a conserved structural motif among all siphophages. Journal of Virology, 88(2), 820–828. 
+
+Fremin, B. J., Bhatt, A. S., Kyrpides, N. C., Sengupta, A., Sczyrba, A., da Silva, A. M., Buchan, A., Gaudin, A., Brune, A., & Hirsch, A. M. (2022). Thousands of small, novel genes predicted in global phage genomes. Cell Reports, 39(12)
+
+Ge, X., & Wang, J. (2024). Structural mechanism of bacteriophage lambda tail’s interaction with the bacterial receptor. Nature Communications, 15(1), 4185. 10.1038/s41467-024-48686-3
+
+Huang, Y., Sun, H., Wei, S., Cai, L., Liu, L., Jiang, Y., Xin, J., Chen, Z., Que, Y., Kong, Z., Li, T., Yu, H., Zhang, J., Gu, Y., Zheng, Q., Li, S., Zhang, R., & Xia, N. (2023). Structure and proposed DNA delivery mechanism of a marine roseophage. Nature Communications, 14(1), 3609. 10.1038/s41467-023-39220-y
+
+Iyer, L. M., Burroughs, A. M., & Aravind, L. (2006). The prokaryotic antecedents of the ubiquitin-signaling system and the early evolution of ubiquitin-like β-grasp domains. Genome Biology, 7(7), R60. 
+
+Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., Tunyasuvunakool, K., Bates, R., Žídek, A., & Potapenko, A. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596(7873), 583–589. 
+
+Katsura, I., & Hendrix, R. W. (1984). Length determination in bacteriophage lambda tails. Cell, 39(3), 691–698. 
+
+Linares, R., Arnaud, C., Effantin, G., Darnault, C., Epalle, N. H., Boeri Erba, E., Schoehn, G., & Breyton, C. (2023). Structural basis of bacteriophage T5 infection trigger and E. coli cell wall perforation. Science Advances, 9(12), eade9674. 
+
+Maharana, J., Wang, C., Tsai, L., Liao, Y., Yang, C., Shen, M. C., Macale, L. S., Tran, T. N., Narsico, J., & Perez, R. J. (2025). Cryo-EM and cryo-ET reveal the molecular architecture and host interactions of mycobacteriophage Douge. Cell Reports, 44(8)
+
+Paul, J. H., Sullivan, M. B., Segall, A. M., & Rohwer, F. (2002). Marine phage genomics. Comparative Biochemistry and Physiology. Part B, Biochemistry & Molecular Biology, 133(4), 463–476. 10.1016/s1096-4959(02)00168-9
+
+Singh, S. K., SaiSree, L., Amrutha, R. N., & Reddy, M. (2012). Three redundant murein endopeptidases catalyse an essential cleavage step in peptidoglycan synthesis of E scherichia coli K 12. Molecular Microbiology, 86(5), 1036–1051. 
+
+Sonani, R. R., Esteves, N. C., Scharf, B. E., & Egelman, E. H. (2024). Cryo-EM structure of flagellotropic bacteriophage Chi. Structure, 32(7), 856–865.e3. 10.1016/j.str.2024.03.011
+
+Tsui, L., & Hendrix, R. W. (1983). Proteolytic processing of phage λ tail protein gpH: timing of the cleavage. Virology, 125(2), 257–264. 
+
+Valentová, L., Füzik, T., Nováček, J., Hlavenková, Z., Pospíšil, J., & Plevka, P. (2024). Structure and replication of Pseudomonas aeruginosa phage JBD30. The EMBO Journal, 43(19), 4384–4405. 
+
+van den Berg, B., Silale, A., Baslé, A., Brandner, A. F., Mader, S. L., & Khalid, S. (2022). Structural basis for host recognition and superinfection exclusion by bacteriophage T5. Proceedings of the National Academy of Sciences, 119(42), e2211672119. 
+
+Wang, C., Duan, J., Gu, Z., Ge, X., Zeng, J., & Wang, J. (2024). Architecture of the bacteriophage lambda tail. Structure, 32(1), 35–46.e3. 10.1016/j.str.2023.10.006
+
+Xiao, H., Tan, L., Tan, Z., Zhang, Y., Chen, W., Li, X., Song, J., Cheng, L., & Liu, H. (2023). Structure of the siphophage neck–Tail complex suggests that conserved tail tip proteins facilitate receptor binding and tail assembly. PLOS Biology, 21(12), e3002441. 10.1371/journal.pbio.3002441
+
+Zheng, C., Casjens, S. R., Davidson, A. R., Amundsen, S. K., & Smith, G. R. (2025). Lambdoid phages with abundant Chi recombination hotspots reflect diverse viral strategies for recombination-dependent growth. Genome Research, 35(8), 1767–1780. 
 
