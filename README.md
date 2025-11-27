@@ -26,7 +26,7 @@
 
 #### 2.	Results
 
-##### 2.1.	 Characterizing conservative tail tip features of long-tailed phages
+##### 2.1. Characterizing conservative tail tip features of long-tailed phages
 
 <p>Long-tailed bacteriophages, including siphophages infecting both monoderm and diderm hosts as well as myophages, share important structural and functional similarities in their tail tips. The primary role of the tail tip complex is to make way for successful genome delivery into the bacterial host cell. To achieve this, the tail tip must perform a series of essential functions - recognizing a susceptible bacterium, adhering to its surface, and penetrating its cell envelope to create a conduit for phage DNA ejection.</p> 
 <p>Despite employing distinct infection strategies, myophages and siphophages face similar challenges imposed by the complex organization of bacterial cell envelopes. In diderm bacteria, the envelope consists of an inner cytoplasmic membrane, a thin peptidoglycan layer, and an outer membrane rich in lipopolysaccharides that limits macromolecular entry. By contrast, monoderm bacteria possess a single cytoplasmic membrane surrounded by a thick, highly cross-linked peptidoglycan layer embedded with teichoic acids. These structural differences create unique mechanical and biochemical barriers for phage infection, requiring distinct evolutionary adaptations.</p>
@@ -38,5 +38,19 @@
 
 <p align="center"><strong>Fig.1.</strong> Conserved tail tip components in long-tailed phages: <br>
 (A) tail tip and (B) tail hub junction.</p>
+
+##### 2.2. Establishing a Representative Database of Proteobacteria Siphophage Genomes
+
+<p>Our approach to investigating phage diversity follows a strategy previously demonstrated to be highly informative: examining limited, representative panels of genome sequences in depth rather than attempting to survey all known phage genomes simultaneously. Such focused “slices” of extant diversity provide tractable and biologically coherent datasets that allow identification of conserved patterns and facilitate extrapolation to the broader phage universe.</p>
+<p>In this study, we concentrate on siphophages infecting members of the Proteobacteria clade, a major group of Gram-negative hosts. To achieve this, we assembled a comprehensive panel of Proteobacteria-infecting siphophage genomes through the following process:</p>
+
+1.	Initial dataset construction – We began with all siphophages listed in the ICTV Master Species List 2020, the last formal classification release in which tail morphology served as a defining taxonomic criterion.
+
+2.	Database integration – These entries were merged with siphophages from three complementary sources: (i) our Lambdoid phage panel (Zheng et al. 2025), (ii) the small virulent Enterobacteriales siphophage panel (Casjens et al. 2022), and (iii) our in-house PAT database (Buttner et al. 2016).
+
+3.	Curation and filtering – From this merged list, we selected approximately 500 siphophages with complete or nearly complete genome sequences, applying several curation criteria:
+(i) Only phages infecting Proteobacteria were retained; prophage sequences were excluded to ensure the inclusion of functional, virion-producing phages; (ii) Genomes exhibiting numerous frameshifts or assembly artifacts that disrupted conserved structural genes were excluded; (iii) To reduce redundancy, near-identical genomes were culled; and (iv) The final dataset retained well-characterized model phages, including lambda, phi80, 21, 434, N15, PY54, T1, T5, DT57C, R4C, Chi, JBD30, and D3, to anchor the panel in existing experimental knowledge.</p>
+<p>The resulting curated panel of 436 siphophages (Table S1) provides broad coverage of Proteobacterial siphophage diversity while remaining sufficiently compact to allow detailed manual examination. Manual curation was essential given the pervasive annotation inaccuracies in many deposited phage sequences. Analysis of this curated panel revealed that 429 of the 436 phages encode tail tip protein sets exhibiting conserved genetic organization and predicted structural motifs consistent with the canonical DT–TH–CF module arrangement described above. Only seven phages (listed in Table S1, bottom) showed substantial deviations from this pattern. Although their tips are not unrelated to the tips in the other 429 phages (e.g., they have DT and CF proteins) these seven have substantial gene differences, and since no tip structures are available, detailed functional and structural predictions cannot be made for all their tail tip proteins.  The latter phages will not be discussed further here and will be considered in a future publication.</p>
+<p>Accordingly, the final analysis panel described below comprises 429 Proteobacteria-infecting siphophages (listed in Table S1, top). This curated dataset represents a robust and balanced sample of extant Proteobacteria siphophage diversity, providing a justified foundation for assessing the conserved features of their tail tip structures.</p>
 
 
