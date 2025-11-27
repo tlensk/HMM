@@ -26,7 +26,7 @@
 
 #### 2.	Results
 
-##### 2.1. Characterizing conservative tail tip features of long-tailed phages
+#### 2.1. Characterizing conservative tail tip features of long-tailed phages
 
 <p>Long-tailed bacteriophages, including siphophages infecting both monoderm and diderm hosts as well as myophages, share important structural and functional similarities in their tail tips. The primary role of the tail tip complex is to make way for successful genome delivery into the bacterial host cell. To achieve this, the tail tip must perform a series of essential functions - recognizing a susceptible bacterium, adhering to its surface, and penetrating its cell envelope to create a conduit for phage DNA ejection.</p> 
 <p>Despite employing distinct infection strategies, myophages and siphophages face similar challenges imposed by the complex organization of bacterial cell envelopes. In diderm bacteria, the envelope consists of an inner cytoplasmic membrane, a thin peptidoglycan layer, and an outer membrane rich in lipopolysaccharides that limits macromolecular entry. By contrast, monoderm bacteria possess a single cytoplasmic membrane surrounded by a thick, highly cross-linked peptidoglycan layer embedded with teichoic acids. These structural differences create unique mechanical and biochemical barriers for phage infection, requiring distinct evolutionary adaptations.</p>
@@ -39,7 +39,7 @@
 <p align="center"><strong>Fig.1.</strong> Conserved tail tip components in long-tailed phages: <br>
 (A) tail tip and (B) tail hub junction.</p>
 
-##### 2.2. Establishing a Representative Database of Proteobacteria Siphophage Genomes
+#### 2.2. Establishing a Representative Database of Proteobacteria Siphophage Genomes
 
 <p>Our approach to investigating phage diversity follows a strategy previously demonstrated to be highly informative: examining limited, representative panels of genome sequences in depth rather than attempting to survey all known phage genomes simultaneously. Such focused “slices” of extant diversity provide tractable and biologically coherent datasets that allow identification of conserved patterns and facilitate extrapolation to the broader phage universe.</p>
 <p>In this study, we concentrate on siphophages infecting members of the Proteobacteria clade, a major group of Gram-negative hosts. To achieve this, we assembled a comprehensive panel of Proteobacteria-infecting siphophage genomes through the following process:</p>
@@ -53,4 +53,31 @@
 <p>The resulting curated panel of 436 siphophages (Table S1) provides broad coverage of Proteobacterial siphophage diversity while remaining sufficiently compact to allow detailed manual examination. Manual curation was essential given the pervasive annotation inaccuracies in many deposited phage sequences. Analysis of this curated panel revealed that 429 of the 436 phages encode tail tip protein sets exhibiting conserved genetic organization and predicted structural motifs consistent with the canonical DT–TH–CF module arrangement described above. Only seven phages (listed in Table S1, bottom) showed substantial deviations from this pattern. Although their tips are not unrelated to the tips in the other 429 phages (e.g., they have DT and CF proteins) these seven have substantial gene differences, and since no tip structures are available, detailed functional and structural predictions cannot be made for all their tail tip proteins.  The latter phages will not be discussed further here and will be considered in a future publication.</p>
 <p>Accordingly, the final analysis panel described below comprises 429 Proteobacteria-infecting siphophages (listed in Table S1, top). This curated dataset represents a robust and balanced sample of extant Proteobacteria siphophage diversity, providing a justified foundation for assessing the conserved features of their tail tip structures.</p>
 
+#### 2.3.	Modeling a minimal tail tip in Proteobacteria infecting siphophages 
+
+<p>Six proteins, or functional components, (4 main and 2 accessory ones) are usually required to build siphophage tail tips structures in the few cases studied genetically (not including receptor-binding proteins (RBPs) encoded by separate genes). The lack of a standard nomenclature of these proteins has seriously confounded accessibility to an understanding this research field.  We suggest the following short names for these proteins, use these names in this report, and recommend that they will be used in the future:  main - TM (tape measure protein), DT (distal tail protein), TH (tail hub protein), and CF (central fiber protein); accessory - TNLP (tail Nlp60 domain protein) and THI (tail hub internal protein).  Additional sporadically present “accessory” tail tip genes are also discussed.  Figure 2A shows a diagrammatic depiction of a minimal typical Proteobacterial siphophage tail tip with the locations of the six proteins indicated.  These six protein types are encoded by a cluster of genes whose order in the genome is essentially constant; some phages may lack one of these genes or have multiple functions fused in a single gene.  This uniform gene order is the phage lambda order shown in figure 2B.</p>
+
+<p align="center"><img alt="Figure 2." src="https://github.com/user-attachments/assets/7358ed5d-7c22-4316-a2aa-dd7cb622a66a" /></p>
+
+ 
+<p align="center"><strong>Fig.2.</strong> Minimal tail tip: (A) tail tip model and (B) conserved gene order.</p>
+
+#### 2.4.	 Nomenclature and Functional Definitions
+
+<p>To facilitate cross-group comparison and standardization of terminology, we propose a concise nomenclature for the principal structural proteins of siphophage tail tips. This terminology follows established usage where possible, while introducing distinctions necessary to differentiate between tail tip systems of myophages, diderm siphophages, and momoderm siphophages.</p>
+
+<p><strong>DT (Distal Tail protein, diderm type)</strong> – The term “distal tail” has been used broadly in the phage literature to describe proteins located near, but not at the extreme end of, the tail tip. DT proteins form a structurally conserved module that links the tail shaft to the tip complex and frequently include auxiliary domains involved in receptor binding or cell wall interaction.</p> 
+
+<p><strong>TH (Tail Hub protein, diderm type)</strong> – The hub represents the structural junction where the sixfold symmetry of the tail shaft cylinder transitions to the threefold symmetry characteristic of the distal tail cone. This definition parallels the “hub” used in myophage studies and corresponds to the same architectural role in momderm siphophages. TH proteins often contain multiple stacked domains and sometimes merge structurally with CF-like regions to form an integrated tail tip core.</p>
+
+<p><strong>CF (Central Fiber protein)</strong> – The term “central fiber” has a long history in phage structural literature, and we retain it here for continuity. Although many siphophages lack an obvious fibrous appendage, the CF protein forms a central axial component of the tail tip. Its most conserved domains participate directly in forming the hub structure rather than extending as an external fiber. Thus, the CF should be regarded as an internal “hub-derived” element rather than a true external appendage in most diderm siphophages.</p>
+
+<p>In addition to these three conserved components, our comparative analyses revealed two additional proteins that appear unique to diderm siphophage tail tips:</p>
+
+<p><strong>THI (Tail Hub Internal protein)</strong> – Found intercalated between TH and CF genes, this small structural component may stabilize the hub complex or mediate specific protein–protein interactions within the tail tip assembly.</p>
+
+<p><strong>TNLP (Tail NlpC/P60 like protein)</strong> – Originally named to reflect its predicted catalytic domains, this protein is found adjacent to DT–TH clusters in some phages. The precise naming may be revisited following experimental validation of its activity.</p>
+
+
+<p>The HMM-based classification thus provides a robust first-order definition of the principal tail tip types among diderm siphophages, with the DT–TH–CF triad forming the structural and evolutionary core. Additional proteins such as THI and TNLP define subtype-specific elaborations that may correlate with host range or infection strategy. In subsequent analyses, we will describe how variations in gene synteny and domain architecture within these groups illuminate the structural logic of siphophage tail tips and support the proposed nomenclature framework for tail tip components.</p>
 
