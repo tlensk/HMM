@@ -193,8 +193,8 @@
 
 #### 4.1. Synteny and potentially unrecognized tail tip proteins 
 
-<p>Were any widely present, potentially critical tail tip assembly cluster genes missed because the few best-studied phages happen to lack them?  Our analysis did not identify any widely present proteins that are not recognizable homologs of one of the lambda H, M, L, K, I or J proteins.  Figures S3A, B, C and D show that although there are sporadically present genes with unknown function (white in figures), they are not common and are generally unique to particular phages; if they are functional these could fall into the category of “morons” (Abedon, 2022).  However, in a few cases such genes are ubiquitously present within a tail tip type or a subgroup within a type.  Phages with MP22-like tips all carry homologous short genes (e.g., gene 52 in MP22; Figure S3C) of unknown function between their THI and CF encoding genes, and a subset of the PY54-like phages (e.g., genes 17 and 9 in Loki and Halfdan respectively; Figure S3D) have an extra TNH gene between the DT and canonical TH gene.  In these two examples the novel gene may well encode an accessory tail tip protein that is used only in these contexts.</p>
-<p>In addition, most but not all of the MP22- and KL1-like phages have two “extra” RBP genes between their TM and DT genes (Figure S3D).  Similarly, members of the T5-like group encode protein that forms an extra ring of subunits between the major tail tube/shaft protein (TTP) and the DT ring and another that forms a bridge between the extra ring and the long tail fiber.  Such “accessory” genes all have no homologs outside their tail tip sequence type group, so any function in tip assembly is limited to their particular group.  We believe that our studies have identified all the critial players in the assembly of the tips of our panel phage tail tips.</p>
+<p>Were any widely present, potentially critical tail tip assembly cluster genes missed because the few best-studied phages happen to lack them?  Our analysis did not identify any widely present proteins that are not recognizable homologs of one of the lambda H, M, L, K, I or J proteins.  <strong>Figures S3A</strong>, <strong>B</strong>, <strong>C</strong> and <strong>D</strong> show that although there are sporadically present genes with unknown function (white in figures), they are not common and are generally unique to particular phages; if they are functional these could fall into the category of “morons” (Abedon, 2022).  However, in a few cases such genes are ubiquitously present within a tail tip type or a subgroup within a type.  Phages with MP22-like tips all carry homologous short genes (e.g., gene 52 in MP22; <strong>Fig. S3C</strong>) of unknown function between their THI and CF encoding genes, and a subset of the PY54-like phages (e.g., genes 17 and 9 in Loki and Halfdan respectively; <strong>Fig. S3D</strong>) have an extra TNH gene between the DT and canonical TH gene.  In these two examples the novel gene may well encode an accessory tail tip protein that is used only in these contexts.</p>
+<p>In addition, most but not all of the MP22- and KL1-like phages have two “extra” RBP genes between their TM and DT genes (<strong>Fig. S3D</strong>).  Similarly, members of the T5-like group encode protein that forms an extra ring of subunits between the TT shaft and the DT ring and another that forms a bridge between the extra ring and the long tail fiber.  Such “accessory” genes all have no homologs outside their tail tip sequence type group, so any function in tip assembly is limited to their particular group.  We believe that our studies have identified all the critial players in the assembly of the tips of our panel phage tail tips.</p>
 
 #### 4.2. Is this general type of tail tip limited to phages with Proteobacteria hosts? 
 
@@ -244,9 +244,11 @@ Finn, R. D., Clements, J., & Eddy, S. R. (2011). HMMER web server: interactive s
 
 Flayhan, A., Vellieux, F. M., Lurz, R., Maury, O., Contreras-Martel, C., Girard, E., Boulanger, P., & Breyton, C. (2014). Crystal structure of pb9, the distal tail protein of bacteriophage T5: a conserved structural motif among all siphophages. Journal of Virology, 88(2), 820–828. 
 
-Fremin, B. J., Bhatt, A. S., Kyrpides, N. C., Sengupta, A., Sczyrba, A., da Silva, A. M., Buchan, A., Gaudin, A., Brune, A., & Hirsch, A. M. (2022). Thousands of small, novel genes predicted in global phage genomes. Cell Reports, 39(12)
+Fremin, B. J., Bhatt, A. S., Kyrpides, N. C., Sengupta, A., Sczyrba, A., da Silva, A. M., Buchan, A., Gaudin, A., Brune, A., & Hirsch, A. M. (2022). Thousands of small, novel genes predicted in global phage genomes. Cell Reports, 39(12).
 
-Ge, X., & Wang, J. (2024). Structural mechanism of bacteriophage lambda tail’s interaction with the bacterial receptor. Nature Communications, 15(1), 4185. 10.1038/s41467-024-48686-3
+Ge, X., & Wang, J. (2024). Structural mechanism of bacteriophage lambda tail’s interaction with the bacterial receptor. Nature Communications, 15(1), 4185. 10.1038/s41467-024-48686-3.
+
+Griffin, M. E., Klupt, S., Espinosa, J., & Hang, H. C. (2023). Peptidoglycan NlpC/P60 peptidases in bacterial physiology and host interactions. Cell Chemical Biology, 30(5), 436–456.
 
 Huang, Y., Sun, H., Wei, S., Cai, L., Liu, L., Jiang, Y., Xin, J., Chen, Z., Que, Y., Kong, Z., Li, T., Yu, H., Zhang, J., Gu, Y., Zheng, Q., Li, S., Zhang, R., & Xia, N. (2023). Structure and proposed DNA delivery mechanism of a marine roseophage. Nature Communications, 14(1), 3609. 10.1038/s41467-023-39220-y
 
@@ -260,7 +262,7 @@ Linares, R., Arnaud, C., Effantin, G., Darnault, C., Epalle, N. H., Boeri Erba, 
 
 Maharana, J., Wang, C., Tsai, L., Liao, Y., Yang, C., Shen, M. C., Macale, L. S., Tran, T. N., Narsico, J., & Perez, R. J. (2025). Cryo-EM and cryo-ET reveal the molecular architecture and host interactions of mycobacteriophage Douge. Cell Reports, 44(8)
 
-Paul, J. H., Sullivan, M. B., Segall, A. M., & Rohwer, F. (2002). Marine phage genomics. Comparative Biochemistry and Physiology. Part B, Biochemistry & Molecular Biology, 133(4), 463–476. 10.1016/s1096-4959(02)00168-9
+Paul, J. H., Sullivan, M. B., Segall, A. M., & Rohwer, F. (2002). Marine phage genomics. Comparative Biochemistry and Physiology. Part B, Biochemistry & Molecular Biology, 133(4), 463–476. 10.1016/s1096-4959(02)00168-9.
 
 Singh, S. K., SaiSree, L., Amrutha, R. N., & Reddy, M. (2012). Three redundant murein endopeptidases catalyse an essential cleavage step in peptidoglycan synthesis of E scherichia coli K 12. Molecular Microbiology, 86(5), 1036–1051. 
 
@@ -274,7 +276,7 @@ van den Berg, B., Silale, A., Baslé, A., Brandner, A. F., Mader, S. L., & Khali
 
 Wang, C., Duan, J., Gu, Z., Ge, X., Zeng, J., & Wang, J. (2024). Architecture of the bacteriophage lambda tail. Structure, 32(1), 35–46.e3. 10.1016/j.str.2023.10.006
 
-Xiao, H., Tan, L., Tan, Z., Zhang, Y., Chen, W., Li, X., Song, J., Cheng, L., & Liu, H. (2023). Structure of the siphophage neck–Tail complex suggests that conserved tail tip proteins facilitate receptor binding and tail assembly. PLOS Biology, 21(12), e3002441. 10.1371/journal.pbio.3002441
+Xiao, H., Tan, L., Tan, Z., Zhang, Y., Chen, W., Li, X., Song, J., Cheng, L., & Liu, H. (2023). Structure of the siphophage neck–Tail complex suggests that conserved tail tip proteins facilitate receptor binding and tail assembly. PLOS Biology, 21(12), e3002441. 10.1371/journal.pbio.3002441.
 
 Zheng, C., Casjens, S. R., Davidson, A. R., Amundsen, S. K., & Smith, G. R. (2025). Lambdoid phages with abundant Chi recombination hotspots reflect diverse viral strategies for recombination-dependent growth. Genome Research, 35(8), 1767–1780. 
 
