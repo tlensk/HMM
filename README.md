@@ -88,6 +88,12 @@
 <p>Additional support for these groupings comes from gene content and organization within the tail tip clusters. These features corroborate the sequence-based classification and further justify separating the MP22-like and KL1-like tips, yielding seven total tip types. Specifically, TH and THI domains occur in distinct gene contexts in MP22-like versus KL1-like phages, while the tandem DT domain duplication found in a few D3-like phages was not used to define a separate category, as all other features of these tips remain D3-like.</p>
 <p>Together, these observations define seven discrete and unambiguous Proteobacteria siphophage tail tip types. This framework greatly simplifies comparative analysis of siphophage tail architecture and provides a unified reference for future functional and structural studies. <strong>Table 1</strong> summarizes the detailed characteristics for each of the seven main tail tip types.</p>
 
+
+<p align="center"><img alt="Table 1." src="https://github.com/user-attachments/assets/2bb23534-6075-4739-b18f-f9887d1cd245" /></p>
+ 
+<p align="center"><strong>Table 1.</strong> Summary of the main tail tip types.</p>
+
+
 <strong>1.	Lambda-like tips.</strong> DT proteins have single domains forming a hexameric ring. TH proteins are encoded by separate genes and contain an HDI N-terminal domain (NTD) and a [4Fe–4S]²⁺-binding C-terminal domain (CTD). TNLP proteins possess N-terminal Prok-JAB and C-terminal NlpC/P60 protease domains. THI proteins are encoded as separate genes. CF cores contain an OB domain inserted into the HDIV domain. In phage lambda itself, receptor binding is mediated by the C-terminal domain of the CF protein, although this has not been characterized in other lambda-like members.
 
 <strong>2.	D3-like tips.</strong> DT proteins are single-domain proteins forming hexameric rings, though three phages in this group exhibit two β-sandwich domains that likely assemble as trimers rather than hexamers. TH proteins resemble those in lambda-like tips, with HDI NTD and [4Fe–4S]²⁺-binding CTD. THI sequences are not encoded separately but are fused to the N-termini of CF proteins. TNLP proteins carry only an NlpC/P60 domain. CFs resemble those of lambda-like phages, with OB insertions in HDIV, but uniquely include additional lambda CF HDII-Ins-like domains in which β-strands are discontinuous in sequence. A tailspike protein bound to the DT ring, as seen in phage D3, may serve as the adsorption apparatus in this group.
